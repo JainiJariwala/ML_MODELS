@@ -1,0 +1,1 @@
+This model convert the speech into text by speech recognition module, pyaudio cross platform library and google API for converting speech into text. This model also convert audio from audio file into text.
