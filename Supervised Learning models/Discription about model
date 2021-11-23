@@ -1,0 +1,1 @@
+This file contains the supervised learning models like KNN, decision tree, regression, SVM etc. which are used to train the datasets. Models are created with the available sklearn Library datasets.
